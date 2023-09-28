@@ -182,6 +182,7 @@ nav {
 #home {
     background: url(./assets/bg\ big\ pasteis\ e\ massas.jpg);
     height: 100vh;
+    width: 100%;
     background-repeat: no-repeat;
     background-position: 80%;
 }
@@ -190,7 +191,7 @@ nav {
     display: flex;
     justify-content: center;
 
-    margin-top: 35rem;
+    margin-top: 25rem;
 }
 
 #home header h1 {
