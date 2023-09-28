@@ -181,8 +181,9 @@ nav {
 /* HOME =================== */
 #home {
     background: url(./assets/bg\ big.jpg);
+    height: 100vh;
     background-repeat: no-repeat;
-    background-position: 80%;
+    background-position-x: 50%;
 }
 
 #home header {
