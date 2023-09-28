@@ -20,7 +20,7 @@ function closeMenu() {
 
 ScrollReveal({
     origin: 'left',
-    distance: '1000px',
+    distance: '100px',
     duration: '700'
 }).reveal(
     `.style1 img,
@@ -30,7 +30,7 @@ ScrollReveal({
 
 ScrollReveal({
     origin: 'right',
-    distance: '1000px',
+    distance: '100px',
     duration: '700'
 }).reveal(
     `.style2 img,
@@ -40,7 +40,7 @@ ScrollReveal({
 
 ScrollReveal({
     origin: 'top',
-    distance: '1000px',
+    distance: '100px',
     duration: '700'
 }).reveal(
     `header h2,

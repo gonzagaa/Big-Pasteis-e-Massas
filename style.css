@@ -180,9 +180,7 @@ nav {
 
 /* HOME =================== */
 #home {
-    background: url(./assets/bg\ big\ pasteis\ e\ massas.jpg);
-    height: 100vh;
-    width: 100%;
+    background: url(./assets/bg\ big.jpg);
     background-repeat: no-repeat;
     background-position: 80%;
 }
